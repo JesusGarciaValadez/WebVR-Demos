@@ -1,7 +1,7 @@
 # WebVR-Demos
 A compilation of all the WebVR demos made: 
 
-1. Hello, World![https://codepen.io/JesusGarciaValadez/pen/eYzaQdo]
+1. (Hello, World!)[https://codepen.io/JesusGarciaValadez/pen/eYzaQdo]
 2. Coloring an arc - https://codepen.io/JesusGarciaValadez/pen/YzWbRYV
 3. Text & animations - https://codepen.io/JesusGarciaValadez/pen/KKMLrjO
 4. Loading external assets - https://codepen.io/JesusGarciaValadez/pen/QWEewXb
